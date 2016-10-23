@@ -9,4 +9,4 @@ Some high level features
 * integration with backend APIs
 * OTP
 
-![Image of Yaktocat](//screen.png)
+![Image of Yaktocat](/screen.png?raw=true)
